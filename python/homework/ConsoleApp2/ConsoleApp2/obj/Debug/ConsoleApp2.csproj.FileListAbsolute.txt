@@ -1,0 +1,2 @@
+C:\Users\user1\Desktop\mego\MeGo\python\homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\mego\MeGo\python\homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
